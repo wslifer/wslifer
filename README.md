@@ -1,16 +1,19 @@
-### Hi there 👋
+### Welcome!
+I am currently profiecient, and striving to master, the following technologies: HTML5, CSS3, JavaScript, NodeJS, ReactJS, MongoDB, and MySQL.  
 
-<!--
-**wslifer/wslifer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My repositories are practice projects, more intensive projects are pinned.
 
-Here are some ideas to get you started:
+## Current Project
+Reworking old projects to incorporate newer and more advanced technologies.
+Learning Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## And More!
+Open to collaboration.  
+Always learning something!
+Open to questions and conversation!
+
+## Contact Me
+On LinkedIn: https://www.linkedin.com/in/wslifer/ 
+Email me: wesleyslifer@ymail.com    
+My personal website and portfolio: 
+
