@@ -14,6 +14,8 @@ Open to questions and conversation!
 
 ## Contact Me
 On LinkedIn: https://www.linkedin.com/in/wslifer/ 
+
 Email me: wesleyslifer@ymail.com    
+
 My personal website and portfolio: 
 
