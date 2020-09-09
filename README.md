@@ -1,5 +1,5 @@
 ### Welcome!
-I am currently profiecient, and striving to master, the following technologies: HTML5, CSS3, JavaScript, NodeJS, ReactJS, MongoDB, and MySQL.  
+I am currently proficient, and striving to master, the following technologies: HTML5, CSS3, JavaScript, NodeJS, ReactJS, MongoDB, and MySQL.  
 
 My repositories are practice projects, more intensive projects are pinned.
 
